@@ -124,7 +124,19 @@ ________________________________________<br>
 <img width="1871" height="373" alt="2026-02-25 09_31_19-R2" src="https://github.com/user-attachments/assets/79bcf32e-77ab-4d21-9f64-994a98e1ee56" />
 
 •	Successful ping PC1 → PC4; PC2 → R2<br>
+<img width="1920" height="1200" alt="2026-02-25 10_18_33-" src="https://github.com/user-attachments/assets/8f5d5160-21b0-44ff-87d3-dfed4383a5fd" />
+
+<img width="1920" height="1200" alt="2026-02-25 09_45_43-" src="https://github.com/user-attachments/assets/5e600519-f455-43d4-b808-8b03bec900ca" />
+
+<img width="1919" height="1200" alt="2026-02-25 09_43_26-" src="https://github.com/user-attachments/assets/0623deaa-2d3f-4e82-95ce-b42202d16f4e" />
+
+<img width="1920" height="1200" alt="2026-02-25 09_35_52-" src="https://github.com/user-attachments/assets/c919e4bf-5ab7-4c7b-8115-00a435224e46" />
+
 •	Interface up messages after no shutdown on each link <br>
+<img width="1920" height="1200" alt="2026-02-25 09_47_02-" src="https://github.com/user-attachments/assets/6fe4fe5d-d0f8-45db-bb54-7ecf0d4ed99e" />
+
+<img width="1920" height="1200" alt="2026-02-25 09_46_47-" src="https://github.com/user-attachments/assets/cea2928a-f1f6-44a9-99bd-99051fee6752" />
+
 ________________________________________<br>
 # Result
 R1 and R2 were configured with correct IPv4 addresses and interface descriptions, links were brought up, routing tables showed connected networks, and end-to-end connectivity between PCs across the WAN link was verified using pings. The configurations were saved to NVRAM for persistence.<br>
