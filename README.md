@@ -123,7 +123,7 @@ ________________________________________<br>
 
 <img width="1871" height="373" alt="2026-02-25 09_31_19-R2" src="https://github.com/user-attachments/assets/79bcf32e-77ab-4d21-9f64-994a98e1ee56" />
 
-•	Successful ping PC1 → PC4; R2 → PC2<br>
+•	Successful ping PC1 → PC4; PC2 → R2<br>
 •	Interface up messages after no shutdown on each link <br>
 ________________________________________<br>
 # Result
